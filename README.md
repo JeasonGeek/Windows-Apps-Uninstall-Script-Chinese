@@ -6,6 +6,7 @@
 # 截图
 ![PERVIEW](https://github.com/JeasonGeek/Windows-Apps-Uninstall-Script-Chinese/blob/main/PREVIEW/1.png)
 # 卸载应用列表
+## 可以右键脚本选择"编辑"以编辑脚本
 * 打印3D
 * Xbox TCUI
 * 相机
@@ -44,4 +45,3 @@
 * 录音机
 * 混合现实门户
 * 计算器
-可以右键脚本选择"编辑"以编辑脚本
